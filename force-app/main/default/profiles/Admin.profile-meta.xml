@@ -3,6 +3,11 @@
       xmlns:n1="http://www.w3.org/2001/XMLSchema-instance">
     <custom>false</custom>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.is_true__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.true__c</field>
         <readable>true</readable>

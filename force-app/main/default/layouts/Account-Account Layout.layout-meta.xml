@@ -23,6 +23,10 @@
                 <behavior>Edit</behavior>
                 <field>true__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>is_true__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
